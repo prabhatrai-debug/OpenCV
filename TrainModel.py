@@ -57,4 +57,4 @@ model.fit(
     epochs=10
 )
 
-model.save("Models/mask_detector.keras")
+model.save("models/mask_detector.keras")
