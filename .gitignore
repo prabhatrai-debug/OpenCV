@@ -1,1 +1,9 @@
 .vscode
+Face Mask Detection.code-workspace
+
+
+# Virtual environments
+venv/
+env/
+.cvdev/
+.conda/
